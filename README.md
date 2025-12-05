@@ -17,12 +17,12 @@ This tool is built to help everyday users evaluate claims without leaving the pa
    - A list of sources used
 Everything is done in real time.
 
-## Features
+## 🚀 Features
 - Highlight text and click **Analyze**.
 - Displays classification label, confidence score, and explanation.
 - Color-coded results for quick interpretation.
 
-## Installation
+## 📦 Installation
 1. Clone the repository.
 2. Ensure the following files exist:
    - manifest.json
@@ -32,7 +32,7 @@ Everything is done in real time.
    - content.js
    - icons/icon16.png, icon48.png, icon128.png
 3. Load the extension in Chrome via **Developer Mode → Load Unpacked**.
-4. Set up the backend API at `http://localhost:3000/analyze`.
+
 
 ## API Response Format
 ```json
@@ -41,4 +41,4 @@ Everything is done in real time.
   "confidence": 0.92,
   "explanation": "The statement matches verified sources."
 }
-### check and make sure all explanations are clear and correct
+
