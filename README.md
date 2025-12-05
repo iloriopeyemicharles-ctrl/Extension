@@ -1,8 +1,21 @@
+## 🌐 BuzzGuard (Chrome Extension)
+BuzzGuard is a simple Chrome extension that allows users to quickly fact-check highlighted text on any webpage using AI and real-time web evidence.
 
-# LLaMA Fake News Detector – Chrome Extension
+This tool is built to help everyday users evaluate claims without leaving the page or switching tabs.
 
-## Overview
-A Chrome extension that analyzes highlighted text on any webpage using an AI-powered backend (e.g., LLaMA model) to detect misinformation or verify truthfulness.
+## 🔍 How It Works
+1. Highlight any text on a webpage
+2. Open the extension and click Analyze
+3. The extension:
+   - Sends the selected text to a secure backend
+   - Searches the web for credible sources
+   - Runs the text + evidence through an AI model
+3. You receive:
+   - A clear label (Likely True, Likely Misinformation, or Needs More Investigation)
+   - A confidence score
+   - A simple explanation
+   - A list of sources used
+Everything is done in real time.
 
 ## Features
 - Highlight text and click **Analyze**.
