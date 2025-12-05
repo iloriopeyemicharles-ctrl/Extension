@@ -8,7 +8,7 @@
     "https://llamaserver-e4sg.onrender.com/*"
   ],
  "icons": {
-  "128": "icon128.png"
+  "128": "icons/icon128.png"
 },
   "action": {
     "default_popup": "popup.html",
