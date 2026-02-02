@@ -1,4 +1,4 @@
-## 🌐 BuzzGuard – Chrome Extension
+## 🎓 BuzzGuard – Chrome Extension
 BuzzGuard is a lightweight Chrome extension designed to help users quickly fact-check any highlighted text on a webpage using AI and real-time web evidence. 
 It empowers everyday readers to evaluate claims instantly—without leaving the page or opening new tabs.
 BuzzGuard makes fact-checking effortless, empowering users to navigate the web with confidence and clarity.
